@@ -5,8 +5,7 @@ namespace Tyuiu.PolyakovaAB.Sprint1.Task1.V8.Lib
     {
         public double Calculate(double a, double x)
         {
-            double Pi = Math.PI;
-            return (x * Pi) / a;
+            return (x * 3.14) / a;
         }
     }
 }

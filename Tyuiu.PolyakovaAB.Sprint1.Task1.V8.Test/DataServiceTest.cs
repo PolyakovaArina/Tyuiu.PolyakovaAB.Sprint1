@@ -10,7 +10,7 @@ namespace Tyuiu.PolyakovaAB.Sprint1.Task1.V8.Test
             DataService ds = new DataService();
             double a = 1.0;
             double x = 2.0;
-            Assert.AreEqual((x * Math.PI) / a, ds.Calculate(a,x));
+            Assert.AreEqual((x * 3.14) / a, ds.Calculate(a,x));
         }
     }
 }
