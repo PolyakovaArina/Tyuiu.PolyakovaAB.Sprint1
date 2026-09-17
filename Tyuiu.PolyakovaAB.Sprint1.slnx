@@ -29,4 +29,5 @@
     <Project Path="Tyuiu.PolyakovaAB.Sprint1.Task5.V2.Test/Tyuiu.PolyakovaAB.Sprint1.Task5.V2.Test.csproj" Id="96396d97-fd3b-4812-ad03-f06905e172e9" />
     <Project Path="Tyuiu.PolyakovaAB.Sprint1.Task5.V2/Tyuiu.PolyakovaAB.Sprint1.Task5.V2.csproj" Id="5ba262b0-75b3-4b31-a66e-80fc6f1525f6" />
   </Folder>
+  <Folder Name="/Task6/" />
 </Solution>
